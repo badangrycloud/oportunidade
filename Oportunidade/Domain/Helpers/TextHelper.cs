@@ -13,7 +13,7 @@ namespace Domain.Helpers
                 " por ", " à ",  " sem ",   " após ", " até ", " nas ", " num ", " nessa ", " pelo ", " pelas "," contra ", " aonde ", " umas ",
                 " desde ", " entre ", " perante ", " sob ", " sobre ", " trás ", " afora ",  " conforme ", " consoante ", " durante ", " exceto ",
                 " feito ", " fora ", " mediante ", " menos ", " salvo ", " segundo ", " senão ", " tirante ", " visto ",  " ante ", " duma ",
-                " àquele ", " aquele ", " duma ", " disto ",
+                " àquele ", " aquele ", " duma ", " disto ", " que ", " se ", " e ", " é ", " da ", " ou ", " na ", " isso ", " no ", " dos "
             };
 
         public static string RemoveTagsHtml(string text)
